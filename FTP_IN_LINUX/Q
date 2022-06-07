@@ -1,0 +1,68 @@
+[33mcommit 0cd7d60ef43cbe999adf9fe25c544d01d279341e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: rouhullahpatmal <rouhullahpatmal23@gmail.com>
+Date:   Sun Jun 5 04:12:52 2022 -0700
+
+    added some file
+
+[33mcommit 3eb43bd23080909452da6b58cc976591d9c95f2c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8b630f9 37a8f1d
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Sun Jun 5 09:47:59 2022 +0430
+
+    Merge pull request #3 from Linux-lovers/add-license-1
+    
+    Create licence
+
+[33mcommit 37a8f1d02c4fb36afda65e3720786e1181dbd67d[m[33m ([m[1;31morigin/add-license-1[m[33m)[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Sun Jun 5 09:47:10 2022 +0430
+
+    Create licence
+
+[33mcommit 8b630f9cfcdfed83934d27999b9bae9062f4b041[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Sun Jun 5 09:45:58 2022 +0430
+
+    Create .gitignore
+
+[33mcommit 5498c77fd4feaaf5b677d7828dfa81913a003d31[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Sun Jun 5 00:11:22 2022 +0430
+
+    Update README.md
+
+[33mcommit 75c53f5537ba86029cac8162d46499b86734c30e[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Sun Jun 5 00:09:15 2022 +0430
+
+    Update README.md
+
+[33mcommit 0b4a087f5fe2d5fc5aa944d69ea7c564174d64d4[m
+Author: ahmadgul <ag2732935@gmail.com>
+Date:   Sun Jun 5 00:07:26 2022 +0430
+
+    removed INSTALL.md
+
+[33mcommit edc29a3fe5e9edd2facd0743c993415c46a2164f[m
+Author: ahmadgul <ag2732935@gmail.com>
+Date:   Sun Jun 5 00:01:19 2022 +0430
+
+    updated INSTALL.md
+
+[33mcommit 97b278bf517d6a49c886b2b2855f9e1ce174eaeb[m
+Author: ahmadgul <ag2732935@gmail.com>
+Date:   Wed Jun 1 09:18:17 2022 +0430
+
+    changes added in txt file
+
+[33mcommit 03dc40fbdd8ce03f982adb1752de660b01184c04[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Wed Jun 1 09:10:10 2022 +0430
+
+    Add files via upload
+
+[33mcommit 0d60102fa9535744d4fd9df50222bfb54f7a1c6c[m
+Author: AhmadGul <ag2732935@gmail.com>
+Date:   Wed Jun 1 08:28:44 2022 +0430
+
+    Initial commit
