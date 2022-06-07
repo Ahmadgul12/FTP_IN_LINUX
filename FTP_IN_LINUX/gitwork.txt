@@ -4,3 +4,4 @@ step 1 : install FTP server
 . start service with the command ( sudo systemctl status vsftpd)
 . check if the vsftpd service is active or not ( sudo systemctl status vsftpd)
 . if your vsftpd is not active then type ( sudo systemctl enable--now vsftpd )
+after some time i change some info in this file 
